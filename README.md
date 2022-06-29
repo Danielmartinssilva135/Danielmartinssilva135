@@ -1,16 +1,20 @@
-### Hi there 👋
+Olá! Meu nome é Daniel Martins 👩🏻‍💻
+Desenvolvedor em formação,aprendendo a programar.
 
-<!--
-**Danielmartinssilva135/Danielmartinssilva135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem vindo, ao meu Github.
 
-Here are some ideas to get you started:
+- 🔭 No momento estou trablhando como Técnico em Segurança do Trabalho.
+- 🌱 Atualmente estou aprendendo a programar em Javascript e fazendo faculdade de engenharia de produção.
+- 👯 Estudo diariamente o mundo dos desenvolvedores, busco conhecimento para assim conseguir adentrar na área de tecnologia.
+- 🤔 Estou procurando ajuda para melhorar os meus conhecimentos no desenvolvimento full stack e posterior transição de carreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Linguagens que estou aprendendo no momento:
+ ### Javascript e React
+ ### HTML5
+ ### CSS3
+ 
+ ## Linguagens que pretendo aprender em seguida:
+ ### Phyton
+ ### PHP
+ ### JAVA
+
