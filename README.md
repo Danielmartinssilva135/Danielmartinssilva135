@@ -13,7 +13,7 @@ Seja muito bem vindo, ao meu Github.
  ### HTML5
  ### CSS3
  
- ## Linguagens que pretendo aprender em seguida:
+ ## Linguagens que vou aprender em seguida:
  ### Phyton
  ### PHP
  ### JAVA
