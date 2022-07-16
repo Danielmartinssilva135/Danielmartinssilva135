@@ -13,7 +13,6 @@ Seja muito bem vindo, ao meu Github.
  
  
           
- 
 
 - 🔭 No momento estou trablhando como Técnico em Segurança do Trabalho.
 - 🌱 Atualmente estou aprendendo a programar em Javascript e fazendo faculdade de engenharia de produção.
