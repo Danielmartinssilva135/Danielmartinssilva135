@@ -19,9 +19,8 @@ Seja muito bem vindo, ao meu Github.
 - 👯 Estudo diariamente o mundo dos desenvolvedores, busco conhecimento para assim conseguir adentrar na área de tecnologia.
 - 🤔 Estou procurando ajuda para melhorar os meus conhecimentos no desenvolvimento full stack e posterior transição de carreira.
 
- ## Linguagens que estou aprendendo no momento:
+ ### Linguagens que estou aprendendo no momento:
  ### Javascript e React
- ### "Typescript"
  ### HTML5
  ### CSS3
  
