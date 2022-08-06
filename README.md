@@ -21,12 +21,8 @@ Seja muito bem vindo, ao meu Github.
 
  ## Linguagens que estou aprendendo no momento:
  ### Javascript e React
- ### Typescript
+ ### "Typescript"
  ### HTML5
  ### CSS3
  
- ## Linguagens que vou aprender em seguida:
- ### Phyton
- ### PHP 
- ### JAVA
-
+ 
